@@ -1,0 +1,6 @@
+{
+  "name": "Altillo Moderno - Apuntes y Exámenes Universitarios",
+  "description": "El clásico repositorio universitario renovado: resúmenes simplificados, banco de parciales resueltos y guías de estudio atractivas para estudiantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
